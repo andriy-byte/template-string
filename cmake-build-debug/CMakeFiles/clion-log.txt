@@ -1,0 +1,4 @@
+G:\JetBrains\ToolBox\apps\CLion\ch-0\222.3345.126\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/msys64/mingw64/bin/ninja.exe -DCMAKE_C_COMPILER=C:/msys64/mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/msys64/mingw64/bin/g++.exe -G Ninja -S G:\Projects\C++\template_string -B G:\Projects\C++\template_string\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: G:/Projects/C++/template_string/cmake-build-debug

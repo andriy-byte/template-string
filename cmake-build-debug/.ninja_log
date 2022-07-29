@@ -1,0 +1,9 @@
+# ninja log v5
+4	863	6808171227857370	CMakeFiles/template_string.dir/main.cpp.obj	abeaf869c9ac5402
+427	618	6808144485228909	template_string.exe	e840fd3aba3495a9
+7	384	6808171223087418	CMakeFiles/template_string.dir/TemplateString.cpp.obj	619972302bd7f86b
+1	120	6808173093351540	build.ninja	5de4e144ec3591ac
+4	1224	6808178377837989	CMakeFiles/template_string.dir/main.cpp.obj	abeaf869c9ac5402
+1224	1540	6808178380946928	template_string.exe	e840fd3aba3495a9
+5	1201	6808180006837628	CMakeFiles/template_string.dir/main.cpp.obj	abeaf869c9ac5402
+1201	1478	6808180009587777	template_string.exe	e840fd3aba3495a9

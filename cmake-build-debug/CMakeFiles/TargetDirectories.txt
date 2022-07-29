@@ -1,0 +1,3 @@
+G:/Projects/C++/template_string/cmake-build-debug/CMakeFiles/template_string.dir
+G:/Projects/C++/template_string/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Projects/C++/template_string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
